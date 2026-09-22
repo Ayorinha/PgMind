@@ -1,0 +1,7 @@
+[project]
+name="pgmind"
+version="0.1.0"
+description="Hybrid lexical and semantic retrieval scoring primitives."
+requires-python=">=3.11"
+[tool.pytest.ini_options]
+pythonpath=["src"]
